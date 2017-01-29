@@ -1,0 +1,80 @@
+
+#home
+{
+	margin-top: 60px;
+	text-align: center;
+	padding: 40px;
+	background-image: url(../images/colorful-candies-and-jelly-beans-wallpaper.jpg);
+	margin-left: 40px;
+	margin-right: 40px;
+	background-size:cover;
+}
+
+#home .jumbotron
+{
+	border-radius:20px;
+	padding: 20px;
+	background-color: rgba(255,255,255,0.75);
+	max-width: 800px;
+	margin: auto;
+
+}
+
+.site-selection
+{
+	text-align: center;
+	padding: 70px;
+	
+}
+
+.site-selection h1
+{
+	
+	margin-bottom: 25px;
+	margin-top: 60px;
+}
+
+#about
+{
+	max-width: 800px;
+	font-size: 20px;
+	margin: auto;
+}
+
+#why h2
+{
+	font-size: 25px;	
+}
+
+#welcome2 p
+{
+	font-size: 18px;	
+}
+
+.dark-section
+{
+	background-color: #A7D7EF;
+	
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.glyphicon-heart 
+{
+	font-size: 90px;
+	color:#E152D3;
+	
+}
+.site-selection2
+{
+	text-align: center;
+	padding: 25px 0;
+	padding: 40px;
+}
+
+.glyphicon-apple
+{
+	font-size: 50px;
+	color:#E152D3;
+}
+
